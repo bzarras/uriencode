@@ -1,5 +1,5 @@
 {
-  "name": "uriencode",
+  "name": "@bzarras/uriencode",
   "version": "1.0.0",
   "description": "A command line tool that calls encodeURIComponent on your string",
   "main": "index.js",
