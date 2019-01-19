@@ -15,6 +15,10 @@
     "uriencode",
     "encodeuricomponent"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bzarras/uriencode"
+  },
   "author": "Ben Zarras",
   "license": "MIT"
 }
