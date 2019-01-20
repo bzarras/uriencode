@@ -4,7 +4,7 @@ A simple command line tool for calling encodeURIComponent on a string.
 
 ## Install
 ```
-$ npm i uriencode -g
+$ npm i @bzarras/uriencode -g
 ```
 
 ## Usage examples
