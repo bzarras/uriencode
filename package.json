@@ -1,13 +1,13 @@
 {
   "name": "@bzarras/uriencode",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "A command line tool that calls encodeURIComponent on your string",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "uriencode": "./index.js"
+    "uriencode": "./src/index.js"
   },
   "keywords": [
     "uri",
